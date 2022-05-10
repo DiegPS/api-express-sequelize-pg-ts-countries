@@ -1,5 +1,5 @@
 {
-  "name": "api-express-sequelize-pg-ts-countries",
+  "name": "express-sequelize-pg-ts-restcountries",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
