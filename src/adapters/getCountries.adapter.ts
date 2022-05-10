@@ -16,4 +16,5 @@ function getCountries(url: string): Promise<Countries> {
       coatOfArms
     })))
 }
-getCountries("https://restcountries.com/v3.1/all")
+//getCountries("https://restcountries.com/v3.1/all")
+export { getCountries }
